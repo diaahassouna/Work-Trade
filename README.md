@@ -16,3 +16,6 @@ The app calculates your needed working days and also how long you have to disabl
 
 Disclaimer:
 The app doesn't take into consideration any other expenses.
+
+Also this app is the updated version from this app:
+https://github.com/diaahassouna/Much
