@@ -1,0 +1,68 @@
+/*Over all Style*/
+body {
+    margin: 1rem;
+    padding: 5%;
+    background-color: lightslategrey;
+    color: #444444;
+}
+/*Buttons Style*/
+button {
+    font-size: x-large;
+    color: floralwhite;
+    background-color: grey;
+    border-radius: 0.25rem;
+    border: transparent;
+}
+button:hover {
+    cursor: pointer;
+    box-shadow: 0.25rem 0.25rem #c5c5c5;
+}
+button.reset {
+    background-color: #4bb543;
+    color: floralwhite;
+    border: transparent;
+}
+/*Display Input Style in Form*/
+input {
+    width: 75%;
+    height: 1.5rem;
+    font-size: 1rem;
+    color: #444444;
+    background-color: floralwhite;
+    border-radius: 0.25rem;
+}
+/*Container Style*/
+.container {
+    background-color: lightyellow;
+    text-align: center;
+    margin: 0.25rem;
+    padding: 0.25rem;
+    border-radius: 1%;
+}
+/*Outer Result Container Style*/
+.container2 {
+    background-color: lightyellow;
+    text-align: center;
+    margin: 0.25rem;
+    padding: 0.25rem;
+    border-radius: 1%;
+    display: none;
+}
+/*Result Container Style*/
+.result {
+    background-color: #444444; /*Changed via JavaScript*/
+    color: antiquewhite;
+    text-align: center;
+    margin: 0.25rem;
+    padding: 0.25rem;
+    border-radius: 1%;
+}
+/*Over all Form Style*/
+.formstyle {
+    background-color: lightyellow;
+    text-align: left;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 1%;
+    font-size: 1.2rem;
+}
